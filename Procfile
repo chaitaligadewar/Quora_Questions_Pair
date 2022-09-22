@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run quora_app.py
